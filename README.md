@@ -22,3 +22,4 @@ You can also download the prebuilt binary directly from the Releases tab.
 
 Only Linux is currently supported.
 
+Update Album display feature by ||beamkungza1234||
